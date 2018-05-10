@@ -1,6 +1,6 @@
 # bash-snippets
-bash-snippets - it is usefull snippets in shell.
+дополнительные файлы скриптов - для MoJorDomo.
 
-Wiki - https://github.com/odinvolk/bash-snippets/wiki
+Wiki - https://github.com/odinvolk/mjd/wiki
 
-Contribute - https://github.com/odinvolk/bash-snippets#fork_box
+Contribute - https://github.com/odinvolk/mjd#fork_box
