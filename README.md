@@ -5,5 +5,5 @@ Wiki - https://github.com/odinvolk/mjd/wiki
 
 Contribute - https://github.com/odinvolk/mjd#fork_box
 
-Contribute - https://github.com/odinvolk/mjd#ikao.php
+Contribute - https://github.com/odinvolk/mjd/wiki#ikao.php
 
