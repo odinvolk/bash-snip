@@ -1,4 +1,4 @@
-# bash-snippets
+# Дополнительные скрипты
 дополнительные файлы скриптов - для MoJorDomo.
 
 Wiki - https://github.com/odinvolk/mjd/wiki
